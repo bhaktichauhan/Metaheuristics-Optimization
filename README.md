@@ -4,7 +4,7 @@ Implementation of Genetic Algorithm with different Crossovers and Mutation techn
 README.txt
 
 
-
+Part of Artificial Intelligence course.
 
 Genetic Algorithm implementation by Bhakti Chauhan
 
